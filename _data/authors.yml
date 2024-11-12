@@ -8,9 +8,9 @@ author1:
   # Used at the bottom of each page and at the top of the `about` layout
   # Markdown enabled, can use multiple paragraphs (enabled by `|`)
   about:             |
-    10+ years of IT ops has shown me that you can never stop learning.
+    15+ years of IT ops has shown me that you can never stop learning.
     I need to know how things work and am ever searching for the satisfaction that comes from solving a problem.
-    I currently live, work, and study (mechatronic engineering) in Brisbane, Australia.
+    I currently live, work (platform engineer), and study (mechatronic engineering) in Brisbane, Australia.
 
   # This photo will be used in the about section
   picture:
@@ -24,7 +24,7 @@ author1:
   # Comment/uncommet to show/hide
   # Rearrange to change the order in which they appear
   social:
-    github:          svgeio
+    github:          savagecx
     linkedin:        emmanuelsavage
     # twitter:         <username>
     # email:           <mail@domain.tld>
