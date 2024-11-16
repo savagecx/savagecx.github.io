@@ -18,7 +18,7 @@ hide_description: true
   "
 }
 
-10+ years of IT ops has shown me that you can never stop learning.
+15+ years of IT ops has shown me that you can never stop learning.
 
 A side effect of learning and trying new things is that the infrequently used is so frequently forgotten... So after way too many years of bookmarking pages, re-Googling solutions, and working from faulty memory I've challenged my insanity and created this blog. To that end, the first purpose of this place is to document that thing I did in the now so I can easily find it again in the future. If that helps someone else do that thing too, so much the better.
 
