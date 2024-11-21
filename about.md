@@ -8,7 +8,7 @@ hide_description: true
 ---
 
 # About
-![Emmanuel Savage](/assets/img/about/Headshot_256x256.jpg "That's me!"){:
+![Manny Savage](/assets/img/about/Headshot_256x256.jpg "That's me!"){:
   style="
     border-radius:100%;
     display: block;

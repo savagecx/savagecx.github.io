@@ -20,7 +20,7 @@
 lang:                  en-au
 
 # The title of your blog. Used in the sidebar and the browser tab.
-title:                 Emmanuel Savage
+title:                 Manny Savage
 
 # A short description (~150 chars) of the page used for the meta description tag.
 # Can use markdown, but no more than one paragraph (enforced by `>`)
@@ -42,7 +42,7 @@ logo:                  /assets/img/logo.png
 # This should be the same author as first entry in `_data/authors.yml`.
 author:
   # Used by `jekyll-feed`:
-  name:                Emmanuel Savage
+  name:                Manny Savage
   email:               manny@savage.cx
   # # Used by `jekyll-seo-tag`:
   # twitter:             <username>
@@ -137,7 +137,7 @@ defaults:
   - scope:
       type:            posts
     values:
-      comments:        true
+      comments:        false
 
   # `jekyll-seo-tag` will mark collection outputs as `BlogPosting`,
   # but we want them to be `WebPage`s:
@@ -173,7 +173,7 @@ google_analytics_4:       G-P5DL56DFTP
 
 # Setting a disqus shortname will enable the comment section on
 # pages with `comments: true` in the front matter.
-disqus:                   svgeio
+#disqus:                   
 
 # Setting a tinyletter username will enable the newsletter subscription box.
 # PRO version only!
