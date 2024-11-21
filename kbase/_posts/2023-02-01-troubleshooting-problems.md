@@ -2,7 +2,7 @@
 layout: post
 title: Troubleshooting Technical Problems
 description: >
-  Where to start troubleshooting technical problems when you're just starting out.
+  Where to begin troubleshooting technical problems when you're just starting out.
 categories: [kbase]
 tags:       [multi-os, sysops]
 ---
@@ -10,7 +10,7 @@ tags:       [multi-os, sysops]
 {:toc}
 
 ## Purpose
-When you're just starting out in a technical role, it can be hard to know where to start troubleshooting problems. The following post summarizes an approach to technical troubleshooting for those new to the field or as a refresher for the more experienced.  
+When you're just starting out in a technical role, it can be hard to know where to begin troubleshooting problems. The following post summarizes an approach to technical troubleshooting for those new to the field or as a refresher for the more experienced.  
 As more experience is gained, many of these steps will become intuition and additional steps can be added to suit the specific problem.
 
 ## Assumptions
