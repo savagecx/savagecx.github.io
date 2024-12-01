@@ -11,7 +11,7 @@ tags:       [pop!_os, linux, sysops]
 
 ## Purpose
 The following post documents the process to switch from the default GNOME Terminal application to Terminator on Pop!_OS 22.04.  
-More information about Terminator can be found at <https://gnome-terminator.org/>{:target="_blank"}
+More information about Terminator can be found at <https://gnome-terminator.org/>
 
 ## Assumptions
 A number of assumptions have been made when compiling the below procedure. They include:

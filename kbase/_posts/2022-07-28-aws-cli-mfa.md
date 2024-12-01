@@ -23,10 +23,10 @@ A number of assumptions have been made when compiling the below procedure. They 
 
 ## Background
 The official AWS guide to setup MFA via the terminal can be found at the following link:  
-<https://aws.amazon.com/premiumsupport/knowledge-center/authenticate-mfa-cli/>{:target="_blank"}
+<https://aws.amazon.com/premiumsupport/knowledge-center/authenticate-mfa-cli/>
 
 While the official guide can be used to connect to the AWS CLI, it is cumbersome and requires manual editing of config files whenever the MFA token expires. Using a third party package allows for a much more streamlined experience for the user. The package utilised in this guide is linked below:  
-<https://github.com/broamski/aws-mfa>{:target="_blank"}  
+<https://github.com/broamski/aws-mfa>
 The package repository lists in depth usage instructions that were used to create this guide.
 
 ## Procedure
@@ -46,7 +46,7 @@ aws-mfa --duration 43200 --device arn:aws:iam::123456789112:mfa/username --profi
 >: Set code to expire after 12 hours (43200 seconds).
 >
 >\-\-device
->: The arn for the user's MFA device in AWS. Can be found in the AWS console on the [Security Credentials](https://us-east-1.console.aws.amazon.com/iam/home?#/security_credentials{:target="_blank"}) page.
+>: The arn for the user's MFA device in AWS. Can be found in the AWS console on the [Security Credentials](https://us-east-1.console.aws.amazon.com/iam/home?#/security_credentials) page.
 >
 >\-\-profile
 >: An existing AWS long term profile to enable MFA on.
