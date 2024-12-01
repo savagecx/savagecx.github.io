@@ -22,6 +22,9 @@ lang:                  en-au
 # The title of your blog. Used in the sidebar and the browser tab.
 title:                 Manny Savage
 
+# Github repository location
+repository:            savagecx/savagecx.github.io
+
 # A short description (~150 chars) of the page used for the meta description tag.
 # Can use markdown, but no more than one paragraph (enforced by `>`)
 description:           >
