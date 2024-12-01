@@ -16,6 +16,9 @@ gem "duktape"
 # Fixes `jekyll serve` in ruby 3
 gem "webrick"
 
+# Theme
+gem "jekyll-theme-hydejack"
+
 group :jekyll_plugins do
   gem "github-pages"
   gem "jekyll-include-cache"
@@ -24,4 +27,3 @@ end
 
 gem 'wdm' if Gem.win_platform?
 gem "tzinfo-data" if Gem.win_platform?
-
