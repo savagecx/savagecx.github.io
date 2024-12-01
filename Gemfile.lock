@@ -286,7 +286,7 @@ PLATFORMS
 DEPENDENCIES
   duktape
   github-pages
-  jekyll (~> 3.9)
+  jekyll (~> 3.10)
   jekyll-compose
   jekyll-include-cache
   jekyll-target-blank
